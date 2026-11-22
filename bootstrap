@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 ## DO NOT EDIT - This file generated from build-aux/bootstrap.in
 ##               by inline-source v2019-02-19.15
 
