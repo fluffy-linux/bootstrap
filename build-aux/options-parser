@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 
 # A portable, pluggable option parser for Bourne shell.
 # Written by Gary V. Vaughan, 2010
